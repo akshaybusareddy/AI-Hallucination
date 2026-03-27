@@ -1,0 +1,94 @@
+question,ground_truth,predicted,is_accurate,semantic_score,is_hallucinating,explanation_and_medication
+Which of the following is not true for myelinated nerve fibers:,A,A,True,1.0,False,"To provide a precise explanation, I would need to see the specific options provided in your question. However, in medical board examinations, the answer **""A""** for this type of question is almost always:
+
+**""A: Myelinated fibers conduct impulses more slowly than unmyelinated fibers.""**
+
+### Why this is ""Not True"":
+*   **Saltatory Conduction:** Myelinated nerve fibers utilize a process called **saltatory conduction**, where the action potential ""jumps"" from one Node of Ranvier to the next. This is significantly faster than the continuous conduction seen in unmyelinated fibers.
+*   **Insulation:** The myelin sheath acts as an electrical insulator, preventing current leakage and allowing the signal to travel at much higher velocities.
+*   **Efficiency:** Because the depolarization only occurs at the nodes, myelinated fibers are not only faster but also more energy-efficient than unmyelinated fibers.
+
+**Summary:** Myelinated fibers are **faster** than unmyelinated fibers; therefore, any statement claiming they are slower is scientifically incorrect.
+
+***
+
+*If your option ""A"" was different, please provide the full list of choices,"
+Which of the following is not true about glomerular capillaries'),A,D,False,0.8,False,"To provide an accurate explanation, I would need to see the specific options provided in your question. However, in medical board examinations, questions about glomerular capillaries usually focus on their unique physiological properties.
+
+**The most common reason ""D"" is the correct answer** in these types of questions is that it contradicts one of the following three fundamental facts about glomerular capillaries:
+
+1.  **High Hydrostatic Pressure:** Unlike systemic capillaries, glomerular capillaries are situated between two arterioles (afferent and efferent). This arrangement maintains a **high hydrostatic pressure** (approx. 55 mmHg) to facilitate constant filtration, whereas systemic capillaries have much lower pressure.
+2.  **High Permeability:** Glomerular capillaries are **fenestrated** and have a specialized basement membrane and podocytes, making them significantly more permeable to water and small solutes than typical systemic capillaries.
+3.  **Net Filtration Pressure:** Because of the high hydrostatic pressure, the net filtration pressure is **positive along the entire length** of the glomerular capillary, meaning they are designed for filtration only, not reabsorption (unlike systemic capillaries, which exhibit both).
+
+**If option D states something like:**
+*   *""They exhibit both filtration and"
+A 29 yrs old woman with a pregnancy of 17 week has a 10 years old boy with down syndrome. She does not want another down syndrome kid; best advice to her is,B,C,False,1.0,False,"In clinical practice, the best advice for a 29-year-old woman with a history of a child with Down syndrome (Trisomy 21) is to offer **genetic counseling and prenatal diagnostic testing (such as amniocentesis).**
+
+Here is why this is the correct approach:
+
+1.  **Recurrence Risk:** While the risk of having a child with Down syndrome increases significantly with maternal age, a woman who has already had a child with Trisomy 21 has a slightly elevated recurrence risk (approximately 1% or the age-related risk, whichever is higher) compared to the general population.
+2.  **Definitive Diagnosis:** Because the patient is currently at 17 weeks of gestation, **amniocentesis** is the gold-standard diagnostic procedure. Unlike screening tests (which only provide a probability), amniocentesis provides a definitive karyotype to confirm or rule out chromosomal abnormalities.
+3.  **Informed Decision-Making:** The goal of genetic counseling is to provide the patient with accurate information regarding her specific risk profile and the options available for diagnostic testing, allowing her to make an informed decision based on her personal values and preferences"
+Axonal transport is:,B,C,False,1.0,False,"To provide a precise explanation, I would need to see the specific options provided in your question. However, in medical and biological contexts, **""Axonal transport""** is typically defined by the following core principles:
+
+**Axonal transport is the cellular process responsible for the movement of organelles, proteins, and vesicles along the axon of a neuron.**
+
+If **Option C** is the correct answer, it likely describes one of these three fundamental aspects:
+
+1.  **The Mechanism:** It involves motor proteins (kinesin and dynein) moving along **microtubules** (the ""tracks"" of the axon).
+2.  **The Directionality:** It is divided into **anterograde** (cell body to synapse, usually via kinesin) and **retrograde** (synapse to cell body, usually via dynein).
+3.  **The Function:** It is essential for maintaining neuronal health, as the axon is often too long for simple diffusion to supply the necessary components from the cell body (soma).
+
+**If you can provide the text of the options, I can explain exactly why C is the correct choice based on the specific wording used.**"
+Low insulin to glucagon ratio is seen in all of these except:,A,A,True,1.0,False,"To explain why a **low insulin-to-glucagon ratio** is the answer (or the ""exception"" in a list of states), you must first understand the physiological roles of these hormones:
+
+*   **Insulin** is an anabolic hormone (promotes storage).
+*   **Glucagon** is a catabolic hormone (promotes mobilization of energy).
+
+A **low insulin-to-glucagon ratio** signifies a **fasting or catabolic state** (the body is breaking down stores to provide energy).
+
+### Why ""A"" is the exception:
+In most multiple-choice questions of this type, the options usually include states like:
+1.  **Fasting/Starvation** (Low ratio)
+2.  **Exercise** (Low ratio)
+3.  **Stress/Trauma** (Low ratio)
+4.  **Protein-rich meal** (Low ratio)
+
+**Option A** is typically the exception because it represents a **fed state** (e.g., **carbohydrate ingestion**). 
+
+*   **The Fed State:** When you consume carbohydrates, blood glucose rises, triggering the pancreas to release insulin and suppress"
+Concentration of tropicamide:,A,B,False,1.0,False,"To provide a precise explanation, I would need to see the specific question or the options provided. However, in clinical ophthalmology, **tropicamide** is most commonly used in two standard concentrations: **0.5% and 1.0%**.
+
+If ""B"" is the correct answer in your context, it is likely because:
+
+1.  **Standard Clinical Practice:** **1.0%** is the most frequently used concentration for achieving maximum mydriasis (pupil dilation) and cycloplegia (paralysis of the ciliary muscle) for comprehensive eye examinations.
+2.  **Potency/Efficacy:** If the question asks for the concentration required for a full cycloplegic refraction, **1.0%** is the standard choice because it provides a more reliable blockade of the muscarinic receptors compared to the 0.5% solution.
+3.  **Safety Profile:** If the question focuses on pediatric or geriatric populations, **0.5%** might be the answer to minimize systemic side effects; however, in general testing, **1.0%** is the ""default"" therapeutic concentration.
+
+**If you can provide the specific options (A,"
+Which of the following statements is true regarding H I N1 Influenza?,A,A,True,1.0,False,"To provide a precise explanation, I would need to see the specific text of option ""A."" However, in the context of medical board examinations and clinical literature, **Option A** for H1N1 (Swine Flu) questions is almost universally:
+
+**""H1N1 is a subtype of Influenza A virus.""**
+
+### Why this is the correct statement:
+1.  **Classification:** Influenza viruses are categorized into types (A, B, C, and D). H1N1 is specifically a subtype of **Influenza A**, which is the only type known to cause widespread pandemics.
+2.  **Nomenclature:** The ""H"" stands for **Hemagglutinin** and the ""N"" stands for **Neuraminidase**. These are the two surface glycoproteins that define the subtype. H1N1 indicates it possesses the H1 and N1 variants of these proteins.
+3.  **Pathogenicity:** Unlike Influenza B or C, which primarily infect humans, Influenza A (including H1N1) has a broad host range, including birds and pigs, allowing for ""antigenic shift"" (reassortment), which is why it is the primary focus"
+Which of the following are not a branch of external carotid Aery in Kiesselbach's plexus.,A,B,False,1.0,False,"To understand why a specific option (B) is the correct answer for ""which is **not** a branch of the external carotid artery in Kiesselbach’s plexus,"" you must first identify the components of the plexus.
+
+**Kiesselbach’s plexus (Little’s area)** is formed by the anastomosis of five arteries:
+
+1.  **Anterior Ethmoidal Artery** (Branch of the Ophthalmic Artery $\rightarrow$ **Internal Carotid**)
+2.  **Posterior Ethmoidal Artery** (Branch of the Ophthalmic Artery $\rightarrow$ **Internal Carotid**)
+3.  **Sphenopalatine Artery** (Branch of the Maxillary Artery $\rightarrow$ External Carotid)
+4.  **Greater Palatine Artery** (Branch of the Maxillary Artery $\rightarrow$ External Carotid)
+5.  **Septal branch of the Superior Labial Artery** (Branch of the Facial Artery $\rightarrow$ External Carotid)
+
+### Why ""B"" is the answer:
+In most medical board exam questions regarding this topic, **Option B is typically the Anterior Ethmoidal Artery.**"
+Diagnosis of the following ECG-,A,B,False,1.0,False,"To provide you with an accurate explanation, **please upload or describe the ECG image** you are referring to.
+
+Since I cannot see the image yet, I cannot confirm why ""B"" is the correct answer. However, if you provide the **ECG findings** (e.g., PR interval, QRS width, rhythm regularity, or specific wave morphology) or the **options provided**, I can explain the clinical reasoning behind why that specific diagnosis is correct.
+
+**Please provide the details or the image, and I will be happy to assist you!**"
