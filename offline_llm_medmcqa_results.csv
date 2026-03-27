@@ -1,0 +1,78 @@
+question,ground_truth,predicted,is_accurate,semantic_score,is_hallucinating,explanation_and_medication
+Which of the following is not true for myelinated nerve fibers:,A,A,True,1.0,False,"The statement ""Impulse through myelinated fibers is slower than non-myelinated fibers"" is not true. Myelinated nerve fibers have a faster conduction velocity due to saltatory conduction, which allows action potentials to jump from one node of Ranvier to the next along the axon. This results in a more rapid transmission of signals compared to unmyelinated fibers.
+
+No specific medication or treatment is required for this statement as it represents an incorrect assertion about myelinated nerve fibers. However, if there were any underlying neurological conditions affecting nerve conduction velocity, appropriate management and treatment would be necessary based on the individual's clinical presentation and diagnosis."
+Which of the following is not true about glomerular capillaries'),A,B,False,0.71,True,"The statement ""Glucose concentration in the capillaries is the same as that in glomerular filtrate"" (option B) is not true about glomerular capillaries.
+
+Explanation: Glomerular filtration occurs due to the unique structure of the glomerulus, where blood flows through a network of capillaries with fenestrations. As blood passes through these specialized capillaries, water and solutes, including glucose, are filtered out into Bowman's capsule, forming the glomerular filtrate. The concentration of glucose in the capillaries remains unchanged during filtration because only water and solutes diffuse across the capillary walls, while red blood cells and proteins remain within the bloodstream.
+
+No specific medication or treatment is required for this statement, as it simply describes a physiological process. However, if there were any abnormalities in glomerular function, such as diabetes mellitus or kidney disease, appropriate medical management would be necessary to address those conditions."
+A 29 yrs old woman with a pregnancy of 17 week has a 10 years old boy with down syndrome. She does not want another down syndrome kid; best advice to her is,B,A,False,0.43,True,"The selected answer is incorrect.
+
+Explanation:
+The woman's age (29 years old) does not preclude the possibility of having a child with Down syndrome. Down syndrome can occur in individuals of all ages, regardless of maternal age. The presence of an older son with Down syndrome increases her risk for having another child with Down syndrome due to germline mosaicism.
+
+Best advice:
+B) Genetic counseling and testing are recommended for this woman to assess the risk of recurrence and discuss available options such as prenatal diagnosis (e.g., chorionic villus sampling or amniocentesis).
+
+No specific medication or treatment is required at this point. However, genetic counseling can help her understand her risks and make informed decisions about her pregnancy."
+Axonal transport is:,B,C,False,1.0,False,"Axonal transport refers to the movement of molecules along nerve fibers within axons. This process occurs in both anterograde (toward the axon terminal) and retrograde (toward the cell body) directions.
+
+Antegrade transport involves the movement of materials from the cell body toward the axon terminal, where they are used for neurotransmitter synthesis or released into the synaptic cleft. Retrograde transport carries signals and molecules back to the cell body for recycling or further processing.
+
+This bidirectional transport is essential for maintaining neuronal health and function. Disruptions in axonal transport can lead to neurodegenerative diseases such as Alzheimer's, Parkinson's, and amyotrophic lateral sclerosis (ALS).
+
+No specific medication or treatment is required for normal axonal transport; however, interventions may be necessary if a neurological disorder is suspected due to disrupted transport mechanisms. These treatments typically focus on managing symptoms and slowing disease progression rather than directly addressing the transport dysfunction itself.
+
+In summary, axonal transport occurs in both anterograde and retrograde directions, ensuring proper neuronal function and maintenance. Disruptions can lead to neurodegenerative diseases, necessitating symptom management and disease progression control through medications or therapies specific to each condition."
+Low insulin to glucagon ratio is seen in all of these except:,A,D,False,0.86,False,"The correct answer is D) Ketogenesis.
+
+Explanation:
+
+Insulin and glucagon are two hormones that play crucial roles in glucose metabolism. The insulin-to-glucagon ratio indicates the balance between these hormones. A low insulin-to-glucagon ratio suggests an increase in glucagon levels relative to insulin, which can lead to increased glucose production by the liver (gluconeogenesis) and decreased glucose uptake by peripheral tissues.
+
+Ketogenesis is a process that occurs when there is an excess of acetyl-CoA due to fatty acid breakdown. This leads to the formation of ketone bodies (acetoacetate, β-hydroxybutyrate, and acetone), which can be used as alternative energy sources for the brain and other tissues during fasting or starvation. Ketogenesis does not directly relate to insulin-to-glucagon ratio.
+
+A low insulin-to-glucagon ratio is typically seen in conditions such as diabetes mellitus (especially type 1) and certain endocrine disorders like glucagonoma, where there is an overproduction of glucagon. Treatment for these conditions usually involves managing blood glucose levels through diet, exercise, and medication (e.g., insulin therapy or oral hypoglycemic agents)."
+Concentration of tropicamide:,A,A,True,1.0,False,"Tropicamide is a short-acting mydriatic agent used to dilate pupils during eye examinations. The concentration of tropicamide typically ranges from 5% to 10%. Among these options, 0.01 (which is equivalent to 1%) would be the closest answer.
+
+The diagnosis/answer provided, A) 0.01, represents a lower concentration than standard clinical practice for tropicamide use. This concentration may not provide adequate mydriasis or could potentially lead to suboptimal examination results. Therefore, it's essential to ensure that the correct concentration of tropicamide is used according to the specific requirements and guidelines for each patient.
+
+No specific medication or treatment is required solely based on this answer; however, it highlights the importance of using appropriate concentrations of medications during clinical procedures. If you suspect an incorrect concentration has been administered, consult with a healthcare professional for further evaluation and guidance."
+Which of the following statements is true regarding H I N1 Influenza?,A,A,True,1.0,False,"The correct statement regarding H1N1 influenza is:
+
+A) Pregnant woman with sore throat can be started immediately on oseltamivir without diagnostic testing under category B.
+
+Explanation: Oseltamivir (Tamiflu) is an antiviral medication used for the treatment and prevention of influenza A and B infections, including H1N1. In pregnant women, especially during the pandemic, early initiation of oseltamivir is recommended due to their increased risk of complications from influenza. Category B medications are those that have not been shown to cause harm to a fetus in animal studies but may still pose some risks. Therefore, oseltamivir can be initiated without diagnostic testing for H1N1 influenza in pregnant women with symptoms suggestive of influenza.
+
+No specific treatment is required beyond antiviral medication and supportive care (rest, hydration, fever management)."
+Which of the following are not a branch of external carotid Aery in Kiesselbach's plexus.,A,B,False,1.0,False,"The correct answer is indeed Anterior Ethmoidal Artery (B). 
+
+Explanation:
+Kiesselbach's plexus, also known as Little's area, is a region in the nasal septum where several arteries anastomose to form a rich network of blood vessels. These arteries include:
+
+1. Septal branch of the sphenopalatine artery
+2. Anterior superior alveolar artery
+3. Greater palatine artery
+4. Nasal branches of the maxillary artery
+
+The anterior ethmoidal artery, on the other hand, is a branch of the ophthalmic artery and supplies the anterior part of the nasal cavity as well as the ethmoid bone. It does not contribute to Kiesselbach's plexus.
+
+No specific medication or treatment is required for this diagnosis, as it simply clarifies which arteries are involved in Kiesselbach's plexus. However, if there were any issues related to bleeding from this area (e.g., epistaxis), appropriate management would be necessary, such as nasal packing or cauterization of the bleeding vessel under local anesthesia."
+Diagnosis of the following ECG-,A,A,True,1.0,False,"The given ECG shows a pattern of alternating normal beats (QRS complexes with a regular rhythm) and premature ventricular contractions (PVCs), which are characterized by an early onset of the QRS complex in relation to the preceding beat's T wave.
+
+This specific pattern, where every other beat is a PVC, is known as ventricular bigeminy. It can be caused by various factors such as electrolyte imbalances, ischemia, or cardiomyopathy. However, it may also occur in healthy individuals without any underlying pathology.
+
+Treatment for ventricular bigeminy depends on the presence of symptoms and the underlying cause. If there are no symptoms or signs of heart failure, treatment is usually not necessary unless the PVCs persist or worsen over time. In such cases, beta-blockers or calcium channel blockers may be prescribed to suppress the premature contractions.
+
+However, if ventricular bigeminy is associated with symptoms like palpitations, dizziness, or shortness of breath, further evaluation and management should be considered. This might include addressing any underlying conditions (e.g., electrolyte imbalances), lifestyle modifications (e.g., reducing caffeine intake), or in severe cases, antiarrhythmic medications.
+
+In summary, the"
+A blue new born presents with cyanosis. The X–ray chest reveal oligaemic lung field and normal sized heart. Most likely diagnosis is –,A,C,False,1.0,False,"The most likely diagnosis for a blue newborn presenting with cyanosis, oligaemic lung fields on chest X-ray, and a normal-sized heart is indeed C) Transposition of great arteries (TGA).
+
+In TGA, the two main arteries leaving the heart are reversed, resulting in deoxygenated blood being pumped to the systemic circulation while oxygen-rich blood returns to the lungs. This leads to cyanosis due to inadequate oxygenation.
+
+Treatment for TGA typically involves surgical intervention, specifically an arterial switch operation (ASO), which aims to correct the anatomical defect by reconnecting the aorta and pulmonary artery in their normal positions. In some cases, a balloon atrial septostomy may be performed as a palliative measure before surgery to improve oxygenation.
+
+Medications such as prostaglandin E1 infusion might be used temporarily to maintain ductal patency until corrective surgery can be performed. Post-operatively, anticoagulation therapy and antibiotics are often prescribed to prevent thromboembolic complications and infections, respectively."
+SUMMARY_METRICS,,,Accuracy: 40.00%,,Hallucination Rate: 20.00%,
